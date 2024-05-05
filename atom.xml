@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Evo7Hu</title>
   <icon>https://www.gravatar.com/avatar/74603c1bce9626f929ffdf2a1dcb0d4e</icon>
-  
+  <subtitle>安静平淡，落魄无助</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
