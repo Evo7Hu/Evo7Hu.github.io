@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/omar/index.html</loc>
+    <loc>http://example.com/essay/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abouther/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/dailyPhoto/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/album/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/fcircle/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/json/music.json</loc>
     
     <lastmod>2024-05-05</lastmod>
     
@@ -12,6 +57,33 @@
   
   <url>
     <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/equipment/index.html</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/omar/index.html</loc>
     
     <lastmod>2024-05-05</lastmod>
     
